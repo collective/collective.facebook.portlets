@@ -4,6 +4,7 @@ Changelog
 1.0b4 (unreleased)
 ^^^^^^^^^^^^^^^^^^
 
+- Remove permissions. [flecox]
 - Implements Facebook Like Box portlet [jpgimenez]
 
 
